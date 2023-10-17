@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:\Users\warboled\OneDrive - Grupo Bancolombia\DICAGI\Sprint_50_Entrega_bot\dvc_remote
